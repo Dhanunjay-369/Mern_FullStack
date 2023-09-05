@@ -1,0 +1,30 @@
+body{
+    font-family:Arial;
+    font-size:medium;
+}
+table{
+    border-collapse:collapse;  
+    text-align:left;
+    margin-left:300px;
+    margin-top:50px;
+}
+tr{
+    height:5vh;
+    width:800px;
+}
+td{
+    padding-right:75px;
+}
+.first{
+    background-color:rgb(46, 111, 46);
+    color:white;
+}
+#id1{
+    padding-left:10px;
+}
+.even{
+    background-color:lightgray;
+}
+.odd{
+    background-color:white;
+}
